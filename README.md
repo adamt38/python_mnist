@@ -1,1 +1,1 @@
-# python_mnist
+This repository is an example of image classification, specifically on the MNIST dataset. I used a Logistic Regression model to set a benchmark, and then used a FNN to create more accurate predictions. 
